@@ -13,7 +13,6 @@ A simple web application that allows users to search for recipes based on their 
 
 - Search for recipes by entering a dish name or ingredients.
 - Displays a list of recipes with images and details.
-- Stores recipes in session storage for quick access.
 - User-friendly and responsive design.
 
 
